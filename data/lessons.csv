@@ -1,0 +1,402 @@
+,id,module_id,title,description,duration
+0,468,8,01: Welcome to The Course,A quick introduction and welcome to the course with some key information to get started.,1493.035
+1,469,8,02: Course Motivation and Overview,The grand vision of the course as of March 2021.,0.0
+2,470,8,03: Common Misconceptions About Programming,Learning a programming language is different from other things you've learned.  In this exercise I give you helpful tips on how to better succeed.,0.0
+3,471,8,04: Setup for Windows,Getting your Windows 10 computer ready to code.,1882.936
+4,472,8,05: Setup for OSX,Setting up your OSX/Mac computer for code.,1501.155
+5,473,8,06: Setup for Linux or WSL,"Getting a Linux system ready, or using Windows Subsystem for Linux.",1360.341
+6,474,8,07: PowerShell Basics,Learning to use enough PowerShell to complete the course.,2027.03
+7,475,8,08: Bash Basics,"A quick introduction to bash if you run Linux, WSL, or OSX.",2360.512
+8,476,8,09: Available Help Resources,The general technical help resources available for you as a customer of the course.,0.0
+9,477,8,10: Next Steps,What you should be doing next.,0.0
+10,478,9,00: Gearing Up,Getting the software you need to finish this module.,955.589
+11,479,9,01: A First Program,Your very first JavaScript program.,470.302
+12,480,9,02: Comments,How to comment out parts of your code and write help for your future self.,264.342
+13,481,9,03: Simple Math and Strings,Doing simple math and creating displayable text in strings.,634.342
+14,482,9,04: Variables,Variables for storing and referencing information.,758.062
+15,483,9,05: Constants,Constants are variables that you claim will not change.,320.222
+16,484,9,06: Escape Sequences,When you write a string how do you put a string in it?,229.902
+17,485,9,07: Prompting Input,Asking a person for input from the terminal.,620.422
+18,486,9,08: Command Line Arguments,Accepting input from the user as command line options on your script.,624.382
+19,487,9,09: Files,Reading files with the fs (filesystem) module.,578.622
+20,488,9,"10: Files, Args, and Variables",Combining reading files with accepting command line arguments.,351.262
+21,489,9,11: Functions,Creating small pieces of code and jumping to them with functions.,1542.902
+22,490,9,"12: Functions, Files, Variables","Combining everything learned so far with functions, files, and variables in one.",529.022
+23,491,9,13: Modules,Packing a group of related files into a single component called a module.,412.342
+24,492,9,14: True and False Tests,The start of logic comparison operations.,888.222
+25,493,9,15: If and Else,The introduction of branching with if and else.,309.702
+26,494,9,16: While Loops,The concept of repeating a block of code with a while-loop.,452.102
+27,495,9,17: Sequences and For Loops,Lists of data and enumerating them with a for-loop.,1049.182
+28,496,9,18: More Arrays,Studying Arrays even more and becoming proficient at nesting them.,409.862
+29,497,9,19: Data Objects,First step with objects just for key/value data.,1159.662
+30,498,9,20: First Game,Creating a little game to combine everything learned thus far.,555.542
+31,499,9,21: Simple OOP,Going from Data Objects and Functions to Object Oriented Programming.,1349.662
+32,500,9,22: More Complex OOP,Using the new ES6 style of classes is much better than the last exercise's classes.,648.622
+33,501,9,23: Inheritance,Learning about the concept of inheritance in OOP.,1134.742
+34,502,9,24: OOP Game,Creating an OOP version of our little game.,1071.142
+35,503,9,25: Functions and Recursion,Studying a complex use of functions calling their self to do a loop.,398.302
+36,504,9,26: Transforming Data,Processing Arrays with handy functions and callbacks like map and reduce.,955.982
+37,505,9,27: Applying Functions,You can chain sequences of functions together to perform more complex sequences of operations.,144.982
+38,506,9,28: Scope and Closures,The concept of scope in ES6 vs. older JavaScript and why you should use let and const instead of var.,453.102
+39,507,9,29: Partial Application,A more complicated technique to push your understanding of callbacks and filters.,470.862
+40,508,9,"30: Callbacks, Events, Promises and Async","This exercise covers the many, many, many ways that JavaScript handles asynchronous events.",2058.942
+41,509,9,31: Modules and `import`,The final exercise covers the use of import and modern ES6 modules.,860.102
+42,53217,10,00: Introduction,The basics of Web Development.,0.0
+43,53218,10,01: Processing Directories of Files,Processing Directories of Files,0.0
+44,53219,10,02: Dynamically Loading Modules,Dynamically Loading Modules,0.0
+45,53220,10,03: A Static Blog Generator,A Static Blog Generator,0.0
+46,53221,10,04: A Blog Server,A Blog Server,0.0
+47,53222,10,05: Creating a Comment Form,Creating a Comment Form,0.0
+48,53223,10,06: Alpine.js Crash Course,Alpine.js Crash Course,0.0
+49,53224,10,07: Better Comments with Alpine.js,Better Comments with Alpine.js,0.0
+50,53225,10,08: The SQL Crash Course,The SQL Crash Course,0.0
+51,53226,10,09: SQL Normalization,SQL Normalization,0.0
+52,53227,10,10: SQL Relationships,SQL Relationships,0.0
+53,53228,10,11: Basic SQL with Knex.js,Basic SQL with Knex.js,0.0
+54,53229,10,12: Storing Comments in SQL,Storing Comments in SQL,0.0
+55,53230,10,13: Form Validation,Form Validation,0.0
+56,53231,10,14: Better Password Storage,Better Password Storage,0.0
+57,53232,10,15: Dynamically Loaded Server,Dynamically Loaded Server,0.0
+58,53233,10,16: Going Further,Going Further,0.0
+59,855,58,01: CSS and HTML,The relationship between CSS and HTML.,773.718
+60,856,58,02: The Setup,Setting up the JavaScript gear you need to use.,676.944
+61,857,58,03: Rule Sets,"The initial format for a CSS rule, and how selectors work.",889.494
+62,858,58,04: Simple Styling,An initial set of useful properties for CSS that should cover 90% of your uses.,1421.722
+63,859,58,05: Value (Not Color) Codes,Using monochrome values instead of color codes to simplify your process.,982.083
+64,860,58,06: Variables,Using variables to simplify CSS and making changes easier.,476.043
+65,861,58,07: Flexbox Basics,Introducing Flexbox for consistent modern layout.,2129.03
+66,862,58,08: Grid Basics,Introduction to using CSS grids for uniform layout.,673.942
+67,863,58,09: A Frontend Development Process,I explain a process for taking your front end ideas (or copy subjects) from nothing to working user interface using blockstart.css.,1588.317
+68,864,58,10: Frontend Development Process Stages 3 and 4,Breaking away from blockstart.css to create the final look of the subject website from Exercise 9.,2692.17
+69,865,60,01: Elements,Introducing basic terminology for HTML.,1850.219
+70,866,60,02: Tags in Detail,A quick reference of the major HTML tags you'll use the most.,1294.061
+71,867,60,03: Attributes,"Learn about how attributes modify tags, and aren't used much anymore.",853.035
+72,868,60,04: Links,Learn how to link to another HTML document.,1202.475
+73,869,60,05: Important Attributes,A list of the major attributes on tags you'll most likely use.,1063.04
+74,870,60,06: The DOM,Explain the Document Object Model and how nested tags work.,957.888
+75,871,60,07: Tables,Focus on tables for tabular data.,376.256
+76,872,60,08: Forms,Focus on forms for collecting information from the user and submitting it.,1184.278
+77,873,60,09: Custom Tags,"An explanation of using your own tags, why that's the easiest way to work, followed by a challenge.",711.104
+78,874,60,10: Simple Layouts with Blockstart,Bridging from HTML to CSS using blockstart.css,1614.016
+79,407,4,0: Gearing Up,This exercise has no code.,4461.883
+80,408,4,1: A Good First Program,"If you skipped Exercise 0, then you are not doing this book right.",0.0
+81,409,4,2: Comments and Pound Characters,Comments are very important in your programs.,0.0
+82,410,4,3: Numbers and Math,Every programming language has some kind of way of doing numbers and math.,0.0
+83,411,4,4: Variables and Names,Now you can print things with `print` and you can do math.,0.0
+84,412,4,5: More Variables and Printing,Now we'll do even more typing of variables and printing them out.,0.0
+85,413,4,6: Strings and Text,"While you have been writing strings, you still do not know what they do.",0.0
+86,414,4,7: Combining Strings,Now we are going to do a bunch of exercises where you just type code in and make it run.,0.0
+87,415,4,8: Formatting Strings Manually,We will now see how to do a more complicated formatting of a string.,0.0
+88,416,4,9: Multi-line Strings,By now you should realize the pattern for this book is to use more than one exercise to teach you something new.,0.0
+89,417,4,10: Escape Codes in Strings,"In Exercise 9 I threw you some new stuff, just to keep you on your toes.",0.0
+90,418,4,11: Asking People Questions,Now it is time to pick up the pace.,0.0
+91,419,4,12: An Easier Way to Prompt,"When you typed `input()` you were typing the `(` and `)` characters, which are `parenthesis` characters.",0.0
+92,420,4,"13: Parameters, Unpacking, Variables",We're now going to take a quick detour into the world of the `Terminal` (aka `PowerShell`) version of `python`.,1917.634
+93,421,4,14: Prompting and Passing,Let's do an exercise that uses `argv` and `input` together to ask the user something specific.,0.0
+94,422,4,15: Reading Files,You know how to get input from a user with `input` or `argv`.,0.0
+95,423,4,16: Reading and Writing Files,"If you did the Study Drills from the last exercise, you should have seen all sorts of commands (methods/functions) you can give to files.",0.0
+96,424,4,17: More Files,Now let's do a few more things with files.,0.0
+97,425,5,"18: Names, Variables, Code, Functions","Big title, right? I am about to introduce you to *the function*! Dum dum dah! Every programmer will go on and on about functions and all the different ideas about how they work and what they do, but I will give you the simplest explanation you can use right now.",0.0
+98,426,5,19: Functions and Variables,You're now going to combine functions with what you know of variables from previous exercises.,0.0
+99,427,5,20: Functions and Files,"Remember your checklist for functions, then do this exercise paying close attention to how functions and files can work together to make useful stuff.",0.0
+100,428,5,21: Functions Can Return Something,You have been using the `=` character to name variables and set them to numbers or strings.,0.0
+101,429,5,"22: Strings, Bytes, and Character Encodings",To do this exercise you'll need to *download* a text file that I've written named `languages.,0.0
+102,430,5,23: Introductory Lists,Most programming languages have some way to store data inside the computer.,0.0
+103,431,5,24: Introductory Dictionaries,In this exercise we'll use the same data from the previous exercise on `list`s and use it to learn about `Dictionaries` or `dict`s.,0.0
+104,432,5,25: Dictionaries and Functions,In this exercise we're going to do something fun by combining functions with `dict`s.,0.0
+105,433,5,26: Dictionaries and Modules,In this exercise you're going to explore how the `dict` works with modules.,0.0
+106,434,5,27: The 5 Simple Rules to the Game of Code,This exercise is intended to be studied periodically while you study the next exercises.,0.0
+107,435,5,28: Memorizing Logic,Today is the day you start learning about logic.,0.0
+108,436,5,29: Boolean Practice,"The logic combinations you learned from the last exercise are called ""Boolean"" logic expressions.",0.0
+109,437,5,30: What If,"Here is the next script of Python you will enter, which introduces you to the `if-statement`.",0.0
+110,438,5,31: Else and If,In the last exercise you worked out some `if-statements` and then tried to guess what they are and how they work.,0.0
+111,439,5,32: Making Decisions,"In the first half of this book you mostly just printed out things called functions, but everything was basically in a straight line.",0.0
+112,440,5,33: Loops and Lists,You should now be able to do some programs that are much more interesting.,0.0
+113,441,5,34: While Loops,"Now to totally blow your mind with a new loop, the `while-loop`.",0.0
+114,442,5,35: Branches and Functions,"You have learned `if-statements`, functions, and lists.",0.0
+115,443,5,36: Designing and Debugging,"Now that you know `if-statements`, I'm going to give you some rules for `for-loops` and `while-loops` that will keep you out of trouble.",0.0
+116,444,5,37: Symbol Review,It's time to review the symbols and Python words you know and to try to pick up a few more for the next few lessons.,0.0
+117,445,6,38: Beyond Jupyter for Windows,Jupyter is a great environment for interactive analysis.,0.0
+118,446,6,39: Beyond Jupyter for macOS/Linux,Jupyter is a great environment for interactive analysis.,0.0
+119,447,6,40: Advanced Developer Tools,"This exercise is all about avoiding ""footguns.",0.0
+120,448,6,41: A Project Skeleton,"This exercise is completely optional, but useful if you want to create your own package to use in other projects.",0.0
+121,449,6,42: Doing Things to Lists,You have learned about lists.,0.0
+122,450,6,43: Doing Things to Dictionaries,You are now going to learn about the Dictionary data structure in Python.,0.0
+123,451,6,44: From Dictionaries to Objects,You should review the following exercises before doing this one:  * _[Exercise 24](/client/#/lesson/431/the-basics-of-programming-lesson-24-introductory-dictionaries/) Introductory Dictionaries_ to refresh your understanding of Dictionaries.,0.0
+124,452,6,45: Basic Object Oriented Programming,In _Exercise 44_ you learned how to use a function to create special `dict` containers with functions attached to them.,0.0
+125,453,6,46: Inheritance and Advanced OOP,An important concept that you have to understand is the difference between a class and an object.,0.0
+126,454,6,47: Basic Object-Oriented Analysis and Design,"I'm going to describe a process to use when you want to build something using Python, specifically with object-oriented programming (OOP).",0.0
+127,455,6,48: Inheritance Versus Composition,In the fairy tales about heroes defeating evil villains there's always a dark forest of some kind.,0.0
+128,456,6,49: You Make a Game,You need to start learning to feed yourself.,0.0
+129,457,6,50: Automated Testing,This final exercise of Module 3 will teach you how to create automated tests.,0.0
+130,458,7,51: What is Data Munging?,At this point in the course you know Python.,0.0
+131,459,7,52: Scraping Data from the Web,The two most popular uses of Python are _Data Science_ and _Web Scraping_ because web scraping typically feeds data to your data science pipeline.,0.0
+132,460,7,53: Getting Data from APIs,In this exercise you'll access the _Application Programmer Interface (API)_ I use for my [learncodethehardway.,0.0
+133,461,7,54: Data Conversion with Pandas,We'll now explore [Pandas](https://pandas.,0.0
+134,462,7,55: How to Read Documentation (featuring Pandas),This exercise is going to teach two very important skills.,0.0
+135,463,7,56: Using Only Pandas,In this exercise you'll take the mess of random scripts you've made and create one clean tool that uses only Pandas for the entire process.,0.0
+136,464,7,57: The SQL Crash Course,"You can't do science without data, and the most widely used language for storing and managing data is SQL.",0.0
+137,465,7,58: SQL Normalization,In the previous exercise we explored SQL basics using the [European Central Bank's](https://www.,0.0
+138,466,7,59: SQL Relationships,Our final exercise is going to cover the concept of relations in SQL.,0.0
+139,467,7,60: Advice from An Even Older Programmer,Imagine it's 1820 and you want a nice portrait of your mother.,0.0
+140,9712,651,J.1 Unspecified behavior,The manner and timing of static initialization (5.,0.0
+141,9713,651,1st Edition Errata,The following errors were found after printing of the 1st edition of *Learn C The Hard Way*.,0.0
+142,9714,651,Exercise 0: The Setup,"The traditional first exercise, exercises 0, is where you setup your computer for the rest of this book.",0.0
+143,9715,651,Exercise 1: Dust Off That Compiler,"Note:* I mention a ""PDF"" in the video but that's not available anymore.",1157.12
+144,9716,651,Exercise 10: Switch Statements,"In other languages like Ruby, you have a `switch-statement` that can take any expression.",531.482
+145,9717,651,Exercise 11: Arrays and Strings,"This exercise shows you that C stores its strings simply as an array of bytes, terminated with the `'\0'` (nul) byte.",521.381
+146,9718,651,Exercise 12: Sizes and Arrays,"In the last exercise, you did math but with a `'\0'` (nul) character.",550.104
+147,9719,651,Exercise 13: For-Loops and Arrays of Strings,You can make an array of various types with the idea that a string and an array of bytes are the same thing.,359.654
+148,9720,651,Exercise 14: Writing and Using Functions,"Up until now, we've just used functions that are part of the `stdio.",841.608
+149,9721,651,"Exercise 15: Pointers, Dreaded Pointers",Pointers are famous mystical creatures in C.,2436.215
+150,9722,651,Exercise 16: Structs And Pointers To Them,"In this exercise, you'll learn how to make a `struct`, point a pointer at it, and use it to make sense of internal memory structures.",1180.549
+151,9723,651,Exercise 17: Heap and Stack Memory Allocation,"In this exercise, you're going to make a big leap in difficulty and create an entire small program to manage a database.",853.009
+152,9724,651,Exercise 18: Pointers to Functions,Functions in C are actually just pointers to a spot in the program where some code exists.,736.421
+153,9725,651,Exercise 19: Zed's Awesome Debug Macros,"There's a reoccurring problem in C that we've been dancing around, but I'm going to solve it in this exercise using a set of macros I developed.",1224.482
+154,9726,651,Exercise 2: Using Makefiles to Build,We're going to use a program called `make` to simplify building your exercise code.,551.312
+155,9727,651,Exercise 20: Advanced Debugging Techniques,"I've already taught you about my awesome debug macros, and you've been using them.",1086.346
+156,9728,651,Exercise 21: Advanced Data Types and Flow Control,This exercise will be a complete compendium of the available C data types and flow control structures you can use.,474.384
+157,9729,651,"Exercise 22: The Stack, Scope, and Globals",The concept of scope seems to confuse quite a few people when they first start programming.,637.319
+158,9730,651,Exercise 23: Meet Duff's Device,"This exercise is a brain teaser where I introduce you to one of the most famous hacks in C called Duff's device, named after Tom Duff the inventor.",816.019
+159,9731,651,"Exercise 24: Input, Output, Files","You've been using `printf` to print things, and that's great and all, but you need more.",672.45
+160,9732,651,Exercise 25: Variable Argument Functions,"In C, you can create your own versions of functions like `printf` and `scanf` by creating a variable argument function or vararg funtion.",420.375
+161,9733,651,Exercise 26: Project logfind,This is a small project for you to attempt on your own.,1174.443
+162,9734,651,Exercise 27: Creative and Defensive Programming,You have now learned most of the basics of C programming and are ready to start becoming a serious programmer.,1453.314
+163,9735,651,Exercise 28: Intermediate Makefiles,In the next three exercises you'll create a skeleton project directory to use in building your C programs later.,795.841
+164,9736,651,Exercise 29: Libraries and Linking,A central part of any C program is the ability to link it to libraries that your OS provides.,645.91
+165,9737,651,Exercise 3: Formatted Printing,"Keep that `Makefile` around since it'll help you spot errors, and we'll be adding to it when we need to automate more things.",624.269
+166,9738,651,Exercise 30: Automated Testing,"Automated testing is used frequently in other languages like Python and Ruby, but rarely used in C.",549.779
+167,9739,651,Exercise 31: Common Undefined Behavior,"At this point in the book, it's time to introduce you to the most common kinds of UB that you will encounter.",394.368
+168,9740,651,Exercise 32: Double Linked Lists,"The purpose of this book is to teach you how your computer really works, and included in that is how various data structures and algorithms function.",1017.406
+169,9741,651,Exercise 33: Linked List Algorithms,I'm going to cover two algorithms for a linked list that involve sorting.,1742.588
+170,9742,651,Exercise 34: Dynamic Array,"This is an array that grows on its own, and have most of the same features as a linked list.",1138.986
+171,9743,651,Exercise 35: Sorting and Searching,"In this exercise, I'm going to cover four sorting algorithms and one search algorithm.",1041.346
+172,9744,651,Exercise 36: Safer Strings,"I already introduced you to the ""Better String"" Library in Exercise 26 when we made `devpkg`.",525.352
+173,9745,651,Exercise 37: Hashmaps,"Hash maps (hashmaps, hashes, or sometimes dictionaries) are used frequently in dynamic programming languages for storing key/value data.",966.206
+174,9746,651,Exercise 38: Hashmap Algorithms,"There are three hash functions that you'll implement in this exercise:  * FNV-1a: Named after the creators Glenn Fowler, Phong Vo, and Landon Curt Noll, this hash produces good numbers and is reasonably fast.",788.179
+175,9747,651,Exercise 39: String Algorithms,"In this exercise, I'm going to show you a supposedly faster string search algorithm, and compare it to the one that exists in `bstrlib.",510.538
+176,9748,651,Exercise 4: Using a Debugger,"This is a video-focused exercise where I show you how to use the debugger that comes with your computer to debug your programs, detect errors, and even debug processes that are currently running.",1071.067
+177,9749,651,Exercise 40: Binary Search Trees,"The binary tree is the simplest tree-based data structure, and even though it's been replaced by hash maps in many languages, it's still useful for many applications.",864.642
+178,9750,651,Exercise 41: Project devpkg,You are now ready to tackle a new project called `devpkg`.,636.32
+179,9751,651,Exercise 42: Stacks and Queues,"At this point in the book, you should know most of the data structures that are used to build all of the other data structures.",264.871
+180,9752,651,Exercise 43: A Simple Statistics Engine,"This is a simple algorithm that I use for collecting summary statistics online, or without storing all of the samples.",480.979
+181,9753,651,Exercise 44: Ring Buffer,Ring buffers are incredibly useful when processing asynchronous I/O.,602.419
+182,9754,651,Exercise 45: A Simple TCP/IP Client,I'm going to use the `RingBuffer` to create a very simplistic network testing tool called `netclient`.,865.501
+183,9755,651,Exercise 46: Ternary Search Tree,"The final data structure that I'll show you is called the *TSTree*, which is similar to the `BSTree`, except it has three branches: `low`, `equal`, and `high`.",376.442
+184,9756,651,Exercise 47: A Fast URL Router,I'm now going to show you how I use the `TSTree` to do fast URL routing in Web servers that I've written.,897.823
+185,9757,651,Exercise 48: A Simple Network Server,"We now start the part of the book where you do a long-running, more involved project in a series of exercises.",2275.696
+186,9758,651,Exercise 49: A Statistics Server,The next phase of your project is to implement the very first feature of the `statserve` server.,3113.0080000000003
+187,9759,651,Exercise 5: Memorizing C Operators,"When you learned your first programming language, it most likely involved going through a book, typing in code you didn't quite understand, and then trying to figure out how it worked.",718.101
+188,9760,651,Exercise 50: Routing the Statistics,"Once you've solved the problem of the protocol, and putting statistics into a data structure, you'll want to make this much richer.",2292.1580000000004
+189,9761,651,Exercise 51: Storing the Statistics,The next problem to solve is how to store the statistics.,3084.6330000000003
+190,9762,651,Exercise 52: Hacking and Improving Your Server,The final exercise consists of three videos.,2274.094
+191,10002,651,Exercise 6: Memorizing C Syntax,"After learning the operators, it's time to memorize the keywords and basic syntax structures you'll be using.",740.671
+192,10003,651,Exercise 7: Variables and Types,"You should be getting a grasp of how a simple C program is structured, so let's do the next simplest thing and make some variables of different types: ...",814.789
+193,10004,651,"Exercise 8: If, Else-If, Else","In C, there really isn't a *Boolean* type.",325.707
+194,10005,651,Exercise 9: While-Loop and Boolean Expressions,"The first looping construct I'll show you is the `while-loop`, and it's the simplest, useful loop you could possibly use in C.",257.417
+195,10007,651,Next Steps,"This book is most likely a monumental undertaking for a beginner programmer, or even a programmer with no experience with many of the topics covered inside.",0.0
+196,10008,651,This Book Is Not Really about C,"Please don't feel cheated, but this book is not about teaching you C programming.",0.0
+197,27523,651,Preface,This is a rough in-progress dump of the book.,0.0
+198,10065,660,Exercise 0: The Setup,This book will use [SQLite3](http://www.,343.47
+199,10066,660,Exercise 1: Creating Tables,"In the introduction I said that you can do ""Create Read Update Delete"" operations to the data inside tables.",432.844
+200,10067,660,Exercise 10: Updating Complex Data,In the previous exercise you did a simple `UPDATE` that changed just one row.,177.099
+201,10068,660,Exercise 12: Destroying And Altering Tables,You've already encountered `DROP TABLE` as a way to get rid of a table you've created.,430.498
+202,10069,660,Exercise 13: Migrating And Evolving Data,This exercise will have you apply some skills you've learned.,1247.609
+203,10070,660,Exercise 22: Accessing SQLite3 from Python,Learn how to access a SQLite3 database from Python.,570.701
+204,10414,660,Exercise 23: Setting Up PostgreSQL,The final exercise in this book will teach you to setup a basic PostgreSQL database on your desktop machine.,1426.078
+205,11033,660,Exercise 3: Inserting Data,"You have a couple tables to work with, so now I'll have you put some data into them using the `INSERT` command:  {{ ork.",383.896
+206,11344,660,Exercise 4: Insert Referential Data,In the last exercise you filled in some tables with people and pets.,459.663
+207,11345,660,Exercise 5: Selecting Data,"Out of the CRUD matrix you only know ""Create"".",421.327
+208,11346,660,Exercise 6: Join Many Tables,Hopefully you're getting your head around selecting data out of tables.,588.742
+209,11347,660,Exercise 7: Deleting Data,"This is the simplest exercise, but I want you to think for a second before typing the code in.",542.094
+210,11348,660,Exercise 8: Deleting Using Other Tables,"Remember I said, ""`DELETE` is like `SELECT` but it removes rows from the table.",381.272
+211,11902,660,Exercise 9: Updating Data,"You now know the CRD parts of CRUD, and I just need to teach you the Update part to round out the core of SQL.",337.758
+212,11904,660,Next Steps,You now know the *very* basic level of SQL.,0.0
+213,11905,660,"Introduction: Haters Gonna Hate, Or Why You Still Need SQL","SQL is everywhere, and I'm not saying that because I want you to use it.",0.0
+214,12784,660,Exercise 11: Replacing Data,I'm going to show you an alternative way to insert data which helps with atomic replacement of rows.,227.44
+215,12787,660,Exercise 14: Basic Transactions,Imagine if the SQL in your last exercise had an error half-way through its run and it aborted.,403.378
+216,12788,660,Exercise 15: GROUP BY And Counts,For this exercise we'll need a large dataset to demonstrate how to group rows by data in their columns.,461.497
+217,12789,660,Exercise 16: GROUP BY With Relations,For the rest of the book we will be using the `ex15.,401.357
+218,12790,660,"Exercise 17: Dates, Times and ORDER BY",I'm going to tell you a little story about SQL and time.,414.337
+219,12791,660,Exercise 18: Aggregate Functions,"In this exercise you'll learn the other ""aggregate functions"".",369.941
+220,12792,660,Exercise 19: Logic and Math Expressions,"The SQLite3 language supports many more functions to handle math, string manipulation, grouping, types, and other features in the [SQLite3 Core Functions](https://www.",580.36
+221,12793,660,Exercise 2: Creating A Multi-Table Database,Creating one table isn't too useful.,726.692
+222,12794,660,Exercise 20: Inner and Outer Joins,You have been learning how to join (link) tables using simple equality (`person.,254.096
+223,12795,660,Exercise 21: Using Views,A `VIEW` is a fake table that is populated with the results of a `SELECT` query you write.,306.713
+224,49838,660,Preface,This is a simple course that teaches you the basics of SQL.,0.0
+225,13356,847,Exercise 0: The Setup,You are going to need to set up and configure some tools to do this book.,1080.379
+226,13357,847,Exercise 1: On Process,There's two type of processes in the world of software development.,1033.196
+227,13358,847,Exercise 2: On Creativity,Creativity is nothing special.,541.002
+228,13359,847,Exercise 3: On Quality,I'm going to propose a scientific theory about cognition I cannot prove:   ```...,367.851
+229,13361,847,Introduction,"Process, Creativity, and Quality.",0.0
+230,49844,847,Part I: Initial Knowledge,The very first thing you need to learn is everything.,0.0
+231,13362,848,Exercise 4: Dealing with Command Line Arguments,Before you can work on this first part of the book you need to do some quick hacking that teaches you about command line arguments in Python.,898.7059999999999
+232,13363,848,Exercise 5: cat,With Exercise 4 you began the work of finding out what blocks you.,814.4639999999999
+233,13364,848,Exercise 6: find,Hopefully you are discovering the various ways you sabotage yourself even before you begin to work.,1817.38
+234,13365,848,Exercise 7: grep,The `find` command should have been possible but a good challenge for 45 minutes.,1155.542
+235,13366,848,Exercise 8: cut,Hopefully you're learning more Python but even more about yourself and how you work.,780.1220000000001
+236,13367,848,Exercise 9: sed,"Using these tiny projects to study yourself is useful, but let's pan out and look at the main topics you've focused on:  - Startup process for beginning work, such as your text editor, how well you can type, and other things that happen inside the computer.",1700.259
+237,13368,848,Exercise 10: sort,"You are slowly building up what I call a Personal Process Practice (3P), which isn't a new idea at all.",1888.4569999999999
+238,13369,848,Exercise 11: uniq,There isn't much more to say in the beginning of these last two exercises.,2464.683
+239,13370,848,Exercise 12: Review,The first stage of my methodic madness is complete for me but not for you.,664.068
+240,13371,848,Part II: Quick Hacks,You've got the best idea ever.,0.0
+241,13372,849,Exercise 13: Single Linked Lists,The first data structure you will implement is the Single Linked List.,1725.522
+242,13373,849,Exercise 14: Double Linked Lists,The previous exercise may have taken you quite a while to complete since you have to figure out how to make a single linked list work.,1939.5410000000002
+243,13374,849,Exercise 15: Stacks and Queues,When working with data structures you'll oftentimes encounter a structure that is similar to another.,2482.9570000000003
+244,13375,849,"Exercise 16: Bubble, Quick, and Merge Sort",You are now going to attempt to implement sorting algorithms for your `DoubleLinkedList` data structure.,2918.842
+245,13376,849,Exercise 17: Dictionary,You should be familiar with Python's `dict` class already.,860.369
+246,13377,849,Exercise 18: Measuring Performance,In this exercise you're going to learn to use several tools to analyze the performance of the data structures and algorithms you've created.,1551.535
+247,13378,849,Exercise 19: Improving Performance,"This is a mostly video exercise where I will demonstrate *improving* the performance of the code you've written so far, but first you should attempt it.",2235.061
+248,13379,849,Exercise 20: Binary Search Trees,In this exercise I'm going to teach you to translate an English description of a data structure into working code.,3322.196
+249,13380,849,Exercise 21: Binary Search,The Binary Search algorithm is a simple way to find an item in an already sorted list of items.,4627.111
+250,13381,849,Exercise 22: Suffix Arrays,I'd like to tell you a story about suffix arrays.,1833.8899999999999
+251,13382,849,Exercise 23: Ternary Search Trees,"The final data structure we'll investigate is called a Ternary Search Tree (`TSTree`), and it's useful for quickly finding a string in a set of strings.",819.944
+252,13383,849,Exercise 24: Fast URL Search,We will end the section on data structures and algorithms with a performance measurement challenge that applies your data structures to an actual problem.,2714.298
+253,13384,849,Part III: Data Structures,You're well on your way to building a personal process that gets you started quickly and with limited friction.,0.0
+254,13385,850,Exercise 25: xargs,We are returning to challenge mode exercises and to warm you up you'll be implementing `xargs`.,1286.711
+255,13386,850,Exercise 26: hexdump,You've done a warmup with `xargs` and are now working in the cycle of code then audit.,1138.173
+256,13387,850,Exercise 27: tr,This exercise is continuing the study of doing TDD (aka Test First) style development.,870.168
+257,13388,850,Exercise 28: sh,"You are now going to continue your TDD style process, but you'll add a small hack session to start.",1144.8139999999999
+258,13389,850,Exercise 29: diff and patch,To finish [Part IV](part3.,1143.375
+259,13390,850,Part IV: Intermediate Projects,In [Part III](part2.,0.0
+260,13391,851,Exercise 30: Finite State Machines,Whenever you read a book on parsing there's this scary chapter on Finite State Machines (FSM).,1161.5320000000002
+261,13392,851,Exercise 31: Regular Expressions,A regular expression (regex) is a succinct way to encode how a sequence of characters should be matched in a string.,715.5
+262,13393,851,Exercise 32: Scanners,"My first book very casually covered scanners in [Learn Python The Hard Way, Exercise 48](https://learnpythonthehardway.",538.796
+263,13394,851,Exercise 33: Parsers,Imagine you're given a huge list of numbers and you have to enter them into a spreadsheet.,811.7
+264,13395,851,Exercise 34: Analyzers,You now have a parser that should be producing a tree of grammar production objects.,405.909
+265,13396,851,Exercise 35: Interpreters,This final exercise in parsing should be both challenging and fun.,1188.235
+266,13397,851,Exercise 36: Simple Calculator,This challenge is to create a simple algebraic calculator using everything you've learned about parsing.,1030.131
+267,13398,851,Exercise 37: Little BASIC,You are now going to take a trip back in time to my childhood and implement a BASIC interpreter.,1320.844
+268,13399,851,Part V: Parsing Text,"This part of the book will teach you about text processing and, specifically, the beginning of parsing text formally.",0.0
+269,13400,852,Exercise 38: Introduction To SQL,The best way to learn how to model and design solid data is to start with the very basic building blocks.,596.405
+270,13401,852,Exercise 39: Creating with SQL,"When we talk about the acronym ""CRUD"" the 'C' stands for ""Create"" and it doesn't just mean creating tables.",664.068
+271,13402,852,Exercise 40: Reading with SQL,"Out of the CRUD matrix you only know ""Create"".",658.681
+272,13403,852,Exercise 41: Updating with SQL,"You now know the CR parts of CRUD, which leaves the Update and Delete operations.",575.971
+273,13404,852,Exercise 42: Deleting with SQL,"This is the simplest exercise, but I want you to think for a second before typing the code in.",317.951
+274,13405,852,Exercise 43: SQL Administration,"The word ""administration"" is overloaded in databases.",326.496
+275,13406,852,Exercise 44: Using Python's Database API,Python has a standardized database API that enables you to use the same code to access multiple databases.,548.804
+276,13407,852,Exercise 45: Creating an ORM,The final exercise in the SQL part of the book is a big jump.,837.614
+277,13408,852,Part VI: SQL and Object Relational Mapping,"In this part of the book we're going to cover something that doesn't quite fit into the rest of the book's structure, but is a very necessary topic for junior developers to understand.",0.0
+278,13409,853,Exercise 46: blog,"You should have your process theme written up as described in the beginning of this section, and you should have your process listed out and ready to go.",1099.047
+279,13410,853,Exercise 47: bc,You should be warmed up and ready to work on this new project.,0.0
+280,13411,853,Exercise 48: ed,If your process is working then you should be able to focus on one long project for a few weeks at a time.,3253.627
+281,13412,853,Exercise 49: sed,"You implemented a ""baby version"" of `sed` in exercise 9 when you were learning how to make quick and dirty hacks.",588.835
+282,13413,853,Exercise 50: vi,I am going to prison for this exercise.,0.0
+283,13414,853,Exercise 51: lessweb,"We are nearing the end of the book, so I'm going to give you one project in the final two exercises.",0.0
+284,13415,853,Exercise 52: moreweb,Now that you've created a web server using the Python `http.,0.0
+285,13416,853,Part VII: Final Projects,The final part of the book is where you step up to more advanced projects and try to nail down your personal process.,0.0
+286,30798,2028,01: Learn JavaScript the Hard Way Support,Introduction to the JavaScript Free Support course.,0.0
+287,30799,2029,01: Learn Python the Hard Way Support,Introduction to the Python Free Support course.,2084.872
+288,47601,2029,"13: Parameters, Unpacking, Variables",We're now going to take a quick detour into the world of the `Terminal` (aka `PowerShell`) version of `python`.,0.0
+289,49919,2029,0: Gearing Up,This exercise has no code.,6508.39
+290,49920,2029,"13: Parameters, Unpacking, Variables",We're now going to take a quick detour into the world of the `Terminal` (aka `PowerShell`) version of `python`.,1917.634
+291,37180,2523,00: Planning Notes for LUnixTHW,Planning Notes for the course,0.0
+292,41086,2523,01: Gearing UP,Gearing UP,2096.865
+293,41087,2523,02: Installing Alpine Linux,Installing Alpine Linux,0.0
+294,41088,2523,03: Bash Shell Basics,Bash Shell Basics,0.0
+295,41089,2523,04: Vim Basics,Vim Basics,0.0
+296,41090,2523,05: Other Editors,Other Editors,0.0
+297,41091,2523,06: File System Layout,File System Layout,0.0
+298,41092,2523,07: Package Management,Package Management,0.0
+299,41093,2523,08: Process Management,Process Management,0.0
+300,41094,2523,09: Monitoring Processes,Monitoring Processes,0.0
+301,41095,2523,10: Basic Networking Configuration,Basic Networking Configuration,0.0
+302,41096,2523,11: Configuring Software,Configuring Software,0.0
+303,41097,2523,12: Advanced Shell Usage,Advanced Shell Usage,0.0
+304,41098,2810,13: A Webserver,A Webserver,0.0
+305,41099,2810,14: An Application Server,An Application Server,0.0
+306,41100,2810,15: Email Server,Email Server,0.0
+307,41101,2810,16: Chat Server,Chat Server,0.0
+308,41102,2810,17: Caching DNS Server,caching DNS server,0.0
+309,41103,2810,18: VPN and Secure Networks,VPN and Secure Networks,0.0
+310,41104,2810,20: Various Programming Languages,Various Programming Languages,0.0
+311,41105,2811,01: Planning Notes for LUnixTHW,Planning Notes for the course,0.0
+312,41106,2811,21: The Security Mindset,The Security Mindset,0.0
+313,41107,2811,22: Simple Security,Simple Security,0.0
+314,41108,2811,23: Simple firewall management,Simple firewall management,0.0
+315,41109,2811,24: Monitoring,Monitoring,0.0
+316,41110,2811,25: Backup Procedures,Backup Procedures,0.0
+317,63777,4447,00: Introduction,Introduction,0.0
+318,63778,4447,01: Gearing Up,Gearing Up,0.0
+319,63779,4447,02: A Simple First Program,A Simple First Program,0.0
+320,63780,4447,03: Building with Meson,Building with Meson,0.0
+321,63781,4447,04: The Names of Funny Characters,The Names of Funny Characters,0.0
+322,63782,4447,05: Printing to the Screen,Printing to the Screen,0.0
+323,63783,4447,06: Variables and Simple Types,Variables and Simple Types,0.0
+324,63784,4447,07: Comments and Debug Printing,Comments and Debug Printing,0.0
+325,63785,4447,08: Strings,Strings,0.0
+326,63786,4447,09: Using the `fmt` Library,Using the `fmt` Library,0.0
+327,63787,4447,10: Math Expressions,Math Expressions,0.0
+328,63788,4447,11: Boolean Tests,Boolean Tests,0.0
+329,63789,4447,12: if-statements,if-statements,0.0
+330,63790,4447,13: switch-statements,switch-statements,0.0
+331,63791,4447,14: while-loops,while-loops,0.0
+332,63792,4447,15: Basic Functions,Basic Functions,0.0
+333,63793,4447,16: Basic Containers,Basic Containers,0.0
+334,63794,4447,17: Classic for-loops,Classic for-loops,0.0
+335,63795,4447,18: Range for-loops,Range for-loops,0.0
+336,63796,4447,19: Input From a User,Input From a User,0.0
+337,63797,4447,20: Input From a File,Input From a File,0.0
+338,63798,4447,21: Writing to a File,Writing to a File,0.0
+339,63799,4447,22: Basic Functions,Basic Functions,0.0
+340,63800,4447,23: A Simple Adventure Game,A Simple Adventure Game,0.0
+341,63801,4447,24: Adding a Save Feature to the Game,Adding a Save Feature to the Game,0.0
+342,63802,4448,25: Using git,Using git,0.0
+343,63803,4448,26: Auto keyword,Auto keyword,0.0
+344,63804,4448,27: References for Function Parameters,References for Function Parameters,0.0
+345,63805,4448,28: Pointers and `new`,Pointers and `new`,0.0
+346,63806,4448,29: Using a Debugger,Using a Debugger,0.0
+347,63807,4448,30: Memory Management,Memory Management,0.0
+348,63808,4448,31: Using Valgrind or other memory sanitizer,Using Valgrind or other memory sanitizer,0.0
+349,63809,4448,32: Advanced Containers,Advanced Containers,0.0
+350,63810,4448,33: Iterators,Iterators,0.0
+351,63811,4448,34: Basic struct,Basic struct,0.0
+352,63812,4448,35: Using a Linter,Using a Linter,0.0
+353,63813,4448,36: DIY Data Structures,DIY Data Structures,0.0
+354,63814,4448,37: Defensive Programming Tactics,Defensive Programming Tactics,0.0
+355,63815,4448,38: DIY Hashmaps,DIY Hashmaps,0.0
+356,63816,4448,39: DIY Algorithms,DIY Algorithms,0.0
+357,63817,4448,40: Why You Shouldn't DIY,Why You Shouldn't DIY,0.0
+358,63818,4448,41: Useful Utilities,Useful Utilities,0.0
+359,63819,4448,42: Advanced Functions,Advanced Functions,0.0
+360,63820,4448,43: Lambdas,Lambdas,0.0
+361,63821,4448,44: Advanced Memory Management,Advanced Memory Management,0.0
+362,63822,4448,45: Exception Alternatives,Exception Alternatives,0.0
+363,63823,4449,46: Review Namespaces and Structs,Review Namespaces and Structs,0.0
+364,63824,4449,47: Implement a Basic Object System,Implement a Basic Object System,0.0
+365,63825,4449,48: Introducing classes,Introducing classes,0.0
+366,63826,4449,49: Structs with Functions,Structs with Functions,0.0
+367,63827,4449,50: The Constructor Problem,The Constructor Problem,0.0
+368,63828,4449,51: Advanced Conversions,Advanced Conversions,0.0
+369,63829,4449,52: Simple Templates,Simple Templates,0.0
+370,63830,4449,53: Templates for Algorithms,Templates for Algorithms,0.0
+371,63831,4449,54: Advanced Templates,Advanced Templates,0.0
+372,63832,4449,55: Performance Measurement,Performance Measurement,0.0
+373,63833,4449,56: Runtime Type Inference,Runtime Type Inference,0.0
+374,63834,4449,57: Introductory SFML,Introductory SFML,0.0
+375,63835,4449,58: SFML Input,SFML Input,0.0
+376,63836,4449,59: Adding Graphics,Adding Graphics,0.0
+377,63837,4449,60: Implementing Physics,Implementing Physics,0.0
+378,63838,4449,61: Hot Lava,Hot Lava,0.0
+379,63839,4449,62: Creating Walls,Creating Walls,0.0
+380,63840,4449,63: Adding Sound,Adding Sound,0.0
+381,63841,4449,64: Game Mechanics,Game Mechanics,0.0
+382,63842,4449,65: Packaging and Distributing Your Game,Packaging and Distributing Your Game,0.0
+383,63843,4449,"66: Making a ""Starter Kit""","Making a ""Starter Kit""",0.0
+384,63844,4449,67: Automating the Starter Kit,Automating the Starter Kit,0.0
+385,63845,4450,68: The 100 Terrible Games Theory,The 100 Terrible Games Theory,0.0
+386,63846,4450,69: Learning to Draw,Learning to Draw,0.0
+387,63847,4450,70: More to Come,More to Come,0.0
+388,79052,5655,00: Introduction,Introduction and explanation of the course.,0.0
+389,79053,5655,01: Gearing Up,Gearing Up,0.0
+390,79054,5655,02: Basic Matching,Basic matching,0.0
+391,79055,5655,03: Anchoring,Anchoring,0.0
+392,79056,5655,04: Basic Repetition,Basic Repetition,0.0
+393,79057,5655,05: Character Sets,Character Set,0.0
+394,79058,5655,06: Advanced Repetition,Advanced Repetition,0.0
+395,79059,5655,07: Introducing `sed`,Introducing sed,0.0
+396,79060,5655,08: Capturing,Capturing,0.0
+397,79061,5655,09: Advanced `sed` Tricks,Advanced sed Tricks,0.0
+398,79062,5655,10: Common Idioms,Common Idioms,0.0
+399,79063,5655,11: Real World Examples,Real World Examles,0.0
+400,79064,5655,12: Additional Resources,Introduction,0.0
